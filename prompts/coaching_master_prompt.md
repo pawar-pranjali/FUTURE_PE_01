@@ -1,0 +1,7 @@
+- Business Name: Apex Scholars Academy
+- Business Type / Industry: Coaching Institute (IIT-JEE, NEET & Foundation)
+- Target Location: Kothrud, Pune
+- Core Target Audience: Class 8–12 students & concerned parents aiming for top engineering/medical entrances
+- Primary Services & Features: JEE/NEET Classroom Batches, Foundation Courses (8th-10th), Small Batch Size (max 25), Personal Mentorship
+- Key Differentiators / Trust Signals: 88% success rate in JEE Advanced 2025, IITian faculty team, weekly AI-powered performance analytics for parents
+- Brand Tone: Confident, Encouraging & Result-Oriented
