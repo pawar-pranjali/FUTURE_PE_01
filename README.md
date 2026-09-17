@@ -11,8 +11,9 @@ Prompt Logic: Role-based copywriting, variable injection sathi system prompt, an
 Tools Used: ChatGPT / Gemini / Claude ani Framer AI.
 
 # OUTPUT
-<img width="950" height="445" alt="img 5" src="https://github.com/user-attachments/assets/f31a6ba8-4a50-49ff-9a56-42eaec5f9848" />
-<img width="947" height="443" alt="img 4" src="https://github.com/user-attachments/assets/2158606c-d647-4063-9aa8-5fdb17d79784" />
-<img width="950" height="446" alt="img 3" src="https://github.com/user-attachments/assets/b3d55d46-af70-40c6-bb9c-dd2043e4a8db" />
-<img width="953" height="446" alt="img 2" src="https://github.com/user-attachments/assets/ac0c9b2f-bfdf-476b-b2e8-661f389d7cbd" />
-<img width="951" height="447" alt="img 1" src="https://github.com/user-attachments/assets/37aae60e-0625-432f-9f58-e0947977f539" />
+<img width="950" height="445" alt="img 5" src="https://github.com/user-attachments/assets/141209a0-20bc-42f7-8606-70ce0f74cc8f" />
+<img width="947" height="443" alt="img 4" src="https://github.com/user-attachments/assets/b54e6a78-9387-47dd-95cd-5fffc2724fc4" />
+<img width="950" height="446" alt="img 3" src="https://github.com/user-attachments/assets/b542f423-446b-40c7-b5ac-5666a0b74ee7" />
+<img width="953" height="446" alt="img 2" src="https://github.com/user-attachments/assets/24a711c8-65ba-4cf6-a803-93a11bbdcb4d" />
+<img width="951" height="447" alt="img 1" src="https://github.com/user-attachments/assets/b29f9ed5-d8ce-4e16-b9ff-3d864d2b1f58" />
+
